@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0aed88"],{"0c98":function(n,c,e){"use strict";e.r(c);var t=function(){var n=this,c=n.$createElement,e=n._self._c||c;return e("div",{staticClass:"community-container"},[n._v(" 云村 ")])},a=[],s={},i=s,u=e("2877"),o=Object(u["a"])(i,t,a,!1,null,"c3adfc9e",null);c["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d0aed88.d4370865.js.map
