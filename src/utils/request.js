@@ -3,7 +3,7 @@ import axios from 'axios';
 import {Toast} from 'vant';
 
 const request = axios.create({
-    baseURL: 'https://netease-cloud-music-api-theta-snowy-46.vercel.app/',
+    baseURL: 'http://localhost:3000',
     withCredentials: true, // default
 });
 
